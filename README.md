@@ -23,6 +23,7 @@ I'm a passionate full-stack developer focused on building clean, scalable, and u
 
 ## 📈 Current Projects
 
+- 🩺 CarePulse – Patient-doctor appointment system built with Next.js, Appwrite & shadcn/ui  
 - ✂️ Tailor Management Dashboard – Custom order management in Blazor  
 - 🤖 Exploring AI/ML applications through hands-on projects  
 
@@ -31,7 +32,9 @@ I'm a passionate full-stack developer focused on building clean, scalable, and u
 ## 🌐 Connect With Me
 
 - 🧳 Portfolio: [Expert Web Sols](https://expertwebsols.vercel.app/)
+- 💼 LinkedIn: [linkedin.com/in/muhammad-umar-rana](https://www.linkedin.com/in/muhammad-umar-rana)
 - 📧 Email: umerrana2k05@gmail.com
+
 
 ---
 
